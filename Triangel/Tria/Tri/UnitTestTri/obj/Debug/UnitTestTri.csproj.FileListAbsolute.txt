@@ -5,3 +5,10 @@ C:\Users\Sebastian Svensson\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTes
 C:\Users\Sebastian Svensson\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
 C:\Users\Sebastian Svensson\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.dll
 C:\Users\Sebastian Svensson\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.pdb
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\bin\Debug\UnitTestTri.dll
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\bin\Debug\UnitTestTri.pdb
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\bin\Debug\Tri.exe
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\bin\Debug\Tri.pdb
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.dll
+C:\Users\ss222tb\Documents\GitHub\Uppgift-1\Triangel\Tria\Tri\UnitTestTri\obj\Debug\UnitTestTri.pdb
